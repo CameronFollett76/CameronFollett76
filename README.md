@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on: C++ Programming at Macomb Community College
+- 🌱 I’m currently learning: C++ Programming
+- 💬 Ask me about my Skyrim or Fallout mod list, my cat, or video game lore.
+- 📫 How to reach me: stevejobs1111333@gmail.com or follettcameron76@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play guitar and have an extensive knowledge of useless video game lore.
 <!--
 **CameronFollett76/CameronFollett76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
